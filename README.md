@@ -43,4 +43,6 @@ We use three benchmark datasets for dermatological image retrieval:
 3. Performance evaluation: Multiple retrieval metrics and visualizations.
 
 ### Research Paper
+Paper (PDF):- [K-Mediod_Clustering_Based_Dermatological_Image_Retrieval_with_Vision_Transformer.pdf](https://github.com/user-attachments/files/19602780/K-Mediod_Clustering_Based_Dermatological_Image_Retrieval_with_Vision_Transformer.pdf)
+
 Submitted in IEEE conference
